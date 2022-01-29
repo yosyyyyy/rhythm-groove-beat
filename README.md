@@ -61,6 +61,6 @@ Audio:
 
 "禁忌と緋色幻想 -The Primary Plasm-": DGK
 
-(Both LeaF and DGK allow non-commercial uses of their tracks.)
+(Both LeaF and DGK explicitly allow non-commercial uses of their tracks.)
 
 Sound effects: https://maou.audio/
