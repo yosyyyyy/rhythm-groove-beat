@@ -2,7 +2,7 @@ Playable URL: https://yosyyyyy.github.io/rhythm-groove-beat/
 
 Recommended: PC with QWERTY keyboard, Microsoft Edge
 
-https://user-images.githubusercontent.com/94620808/151659963-c7a1e6a4-1a01-434e-9613-89691ac6ec5b.mp4
+https://user-images.githubusercontent.com/94620808/151660008-1c1da144-e497-4d36-96dc-4d909e459713.mp4
 
 # Description (JP)
 タイトル: Rhythm Groove Beat!
